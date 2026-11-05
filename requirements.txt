@@ -1,0 +1,5 @@
+chromadb
+requests
+mcp
+flask
+pypdf

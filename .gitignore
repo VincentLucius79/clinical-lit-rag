@@ -1,0 +1,13 @@
+# Local corpus, vector index, and eval logs -- never commit these
+# (books may be copyrighted; the index is large and rebuildable)
+data/
+
+# Local environment overrides (e.g. NCBI_CONTACT_EMAIL)
+.env
+local.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
